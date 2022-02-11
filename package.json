@@ -56,7 +56,7 @@
     "cypress": "^4.3.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.1.3",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prettier": "^2.0.4",
     "pretty-quick": "^2.0.1",
     "sass-loader": "^8.0.2",
